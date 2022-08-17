@@ -1,3 +1,7 @@
+---
 layout: page
 title: "PAGE TITLE"
-permalink: /about/x
+permalink: /x
+---
+
+HelloWorld!
